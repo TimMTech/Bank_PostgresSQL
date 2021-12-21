@@ -3,7 +3,8 @@ from RegisterPage import Register
 from LoginPage import Login
 from AccountPage import AccountDash
 from PersonalPage import PersonalDetails
-
+from DepositPage import Deposit
+from WithdrawPage import Withdraw
 pages = {
     "RegisterPage": Register,
     "LoginPage": Login,
